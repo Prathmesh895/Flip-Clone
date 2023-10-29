@@ -1,0 +1,75 @@
+.nav{
+    margin-top:auto;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+/*Navbar content*/
+.Nav-content{
+    list-style-type: none;
+    background-color: #2874f0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    height: 57px;
+    margin: auto;
+
+}
+/*flipkart name and home page link*/
+.tag{
+    margin:6px;
+    color: #fff; 
+    line-height:120%;
+}
+/* navbar search tab*/
+.search-tab{
+    border: none;
+    outline: none;
+    width: 150%;
+    margin: 10px;
+    height: 37px;
+    border-radius: 2px;
+
+}
+/**/
+.Login{
+    font-Size:1.3em;
+    color: #2874f0;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff;
+    padding: 4px 4px;
+    border-radius: 2px;
+    margin-top:.5em;
+    margin-left: 1em;
+    width: 5%;
+    height: 50%;
+
+}
+/**/
+.dropdown{
+    outline: none;
+    border: none;
+    background: transparent;
+    padding: auto;
+    color: #fff;
+    font-size: 1.3em;
+    margin-top:9px;
+    width: 40%;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+/**/
+.li-drop-option{
+    color: black;
+    outline: none;
+    border: none;
+   
+}
+/**/
+.nav-txt{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-top: 9px;
+}

@@ -1,0 +1,24 @@
+.flex-content{
+    background-color:#fff;
+    margin-top: 75px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+.flex-cont-1 {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    padding:15px 15px 0px 10px;
+    
+    
+}
+.flex-content-list{
+    text-decoration: none;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+
+}
